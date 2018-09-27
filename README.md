@@ -1,2 +1,4 @@
-# Java-temperature-changer
-Java temperature changer done from lecture 7 from the course Java for total beginners - Easy-to-follow Java programming by Duckademy IT courses from Udemy
+# Java temperature changer
+Java temperature changer (from Celsius to Farenheit) done from lecture 7 from the course Java for total beginners - Easy-to-follow Java programming by Duckademy IT courses from Udemy
+
+https://www.udemy.com/easy-to-follow-java-programming/
